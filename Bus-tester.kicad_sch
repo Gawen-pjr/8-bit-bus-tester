@@ -6,7 +6,7 @@
 
   (title_block
     (title "Bus tester")
-    (rev "v1.0")
+    (rev "v1.0.1-dev")
   )
 
   (lib_symbols
